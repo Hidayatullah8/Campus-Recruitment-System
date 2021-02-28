@@ -1,0 +1,12 @@
+{
+  "name": "CampusRecruitmentSystem",
+  "displayName": "CampusRecruitmentSystem",
+  "expo": {
+    "name": "CampusRecruitmentSystem",
+    "slug": "CampusRecruitmentSystem",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
